@@ -19,14 +19,14 @@
 
 
 
-## 本地运行方式（超简单）
+## 本地运行方式
 1. 下载本仓库 ZIP 包
 2. 解压后在根目录运行
 ```
 # Windows（PowerShell 或 CMD）
 python -m http.server 8000
 
-# macOS / Linux
+# 或者
 python3 -m http.server 8000
 
 或者
