@@ -2,6 +2,15 @@
 
 基于百度地图 WebGL + MapVGL + Vue2 开发的完整房源展示平台
 
+### 源码位于：
+```
+https://github.com/dongjunyu0830/house-rental-origin
+```
+### 正在升级：
+```
+https://github.com/dongjunyu0830/vue3-house-rental-refresh
+```
+
 ## 功能亮点
 - 真实渝中区 2400+ 条安居客房源数据
 - 海量点位聚合 + 热力图 + 3D 柱状图
@@ -34,7 +43,3 @@ http-server -p 8000
 ```
 3. 推荐使用 Chrome
 
-### 源码位于：
-```
-https://github.com/dongjunyu0830/house-rental-origin
-```
